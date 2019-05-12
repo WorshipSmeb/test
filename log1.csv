@@ -1,0 +1,72 @@
+498c1d2,Nikhil Binod Agarwal,2017/12/28 15:14,GitHub,Merge pull request #1 from nikhilba/add-license-1
+72faaaa,Nikhil Binod Agarwal,2017/12/28 15:14,GitHub,Create LICENSE
+05295a4,Nikhil Binod Agarwal,2017/5/11 11:49,GitHub,Update README.md
+689bdb2,Tina Hong Bu,2017/5/10 0:50,GitHub,add code for result analysis
+7793d23,Tina Hong Bu,2017/5/10 0:49,GitHub,Delete Aerial_Imagery_Deep_Learning.ipynb
+a646f5e,Nikhil Binod Agarwal,2017/5/8 17:21,GitHub,"Include scale down images, feature save script"
+0810a36,Nikhil Binod Agarwal,2017/5/6 16:11,GitHub,Removed invalid code
+15942c7,Tina H. Bu,2017/4/30 18:13,Tina H. Bu,modified training model
+559552,Tina H. Bu,2017/4/26 13:29,Tina H. Bu,Merge branch 'master' of https://github.com/nikhilba/Aerial-Imagery
+41cd625,Tina H. Bu,2017/4/26 13:29,Tina H. Bu,add time count for feature generation
+e82ff72,Nikhil Binod Agarwal,2017/4/24 3:50,GitHub,Update README.md
+a66d245,Tina H. Bu,2017/4/23 19:49,Tina H. Bu,run classification code
+c384271,Tina H. Bu,2017/4/23 19:22,Tina H. Bu,add comments
+3e00611,Tina H. Bu,2017/4/23 18:22,Tina H. Bu,code for vgg feature generating
+b0d9066,Tina H. Bu,2017/4/23 16:17,Tina H. Bu,modified vgg code
+9737cbb,Tina H. Bu,2017/4/23 15:01,Tina H. Bu,Merge branch 'master' of https://github.com/nikhilba/Aerial-Imagery
+2f75365,Nikhil Binod Agarwal,2017/4/23 14:15,GitHub,"Create labels, split image, VGG"
+33d32ff,Nikhil Binod Agarwal,2017/4/23 14:07,GitHub,Update .gitignore
+1692017,Nikhil Binod Agarwal,2017/4/10 1:13,Nikhil Binod Agarwal,Update description
+66d2a4b,Nikhil Binod Agarwal,2017/4/10 0:51,Nikhil Binod Agarwal,Generate target label and img matrix
+e97189d,Nikhil Binod Agarwal,2017/4/9 23:45,Nikhil Binod Agarwal,Optimize code
+1275822,Nikhil Binod Agarwal,2017/4/9 23:41,Nikhil Binod Agarwal,Split image into n parts
+de47d3a,Nikhil Binod Agarwal,2017/4/7 16:03,Nikhil Binod Agarwal,"Revert Gospatial Analysis"""""
+945e1e5,Nikhil Agarwal,2017/4/6 23:56,Nikhil Agarwal,Gospatial Analysis
+a26e0c5,Nikhil Agarwal,2017/4/5 18:57,Nikhil Agarwal,Merge branch 'master' of https://github.com/nikhilba/Aerial-Imagery
+ba0b122,Nikhil Agarwal,2017/4/5 18:52,Nikhil Agarwal,Update
+71bd403,Nikhil Binod Agarwal,2017/4/5 18:14,Nikhil Binod Agarwal,Deep Learning Structure
+38c3a24,Nikhil Binod Agarwal,2017/4/2 17:27,GitHub,Update README.md
+ee001c5,Tina H. Bu,2017/3/31 14:58,Tina H. Bu,delete test file
+11b8a9e,Nikhil Binod Agarwal,2017/3/30 0:20,GitHub,Delete Aerial-Imagery.ipynb
+320b87c,Nikhil Binod Agarwal,2017/3/30 0:18,GitHub,Delete unwanted file
+bf10c4d,Nikhil Binod Agarwal,2017/3/29 20:51,GitHub,Delete Block_Group_2010.zip
+4d133a0,Nikhil Binod Agarwal,2017/3/29 20:49,GitHub,Delete pittsburgh_geo_info.csv
+f394011,Nikhil Binod Agarwal,2017/3/29 20:48,GitHub,Delete ACS_2014_5YR_TRACT_42.gdb.zip
+5fd6d8a,Nikhil Binod Agarwal,2017/3/29 20:48,GitHub,Delete Metadata_Census_Tract.txt
+7d78932,Nikhil Binod Agarwal,2017/3/29 20:47,GitHub,Delete Proposal
+cf8fcf4,Nikhil Binod Agarwal,2017/3/29 20:46,GitHub,Delete ProgressTrack
+4526099,Nikhil Agarwal,2017/3/29 20:41,Nikhil Agarwal,Map satellite images with Pitts GEOID and Income
+9b44c3f,Nikhil Agarwal,2017/3/23 13:46,Nikhil Agarwal,Revert Changes
+bab9987,Tina H. Bu,2017/3/21 19:59,Tina H. Bu,modified code to download images at zoom level 18
+28524b8,Tina H. Bu,2017/3/21 19:21,Tina H. Bu,add image downloading code for zoom=18
+adeded7,Tina H. Bu,2017/3/21 18:39,Tina H. Bu,add code to write to csv
+b12b82f,Tina H. Bu,2017/3/21 18:35,Tina H. Bu,image downloading experiment code added
+a8a374e,Tina H. Bu,2017/3/21 18:34,Tina H. Bu,code for downloading images at zoom level 19 is done
+348546c,Tina H. Bu,2017/3/20 23:32,Tina H. Bu,Image Download Code Update
+08d979e,Nikhil Agarwal,2017/3/20 23:02,Nikhil Agarwal,Pittsburgh boundary geocodes
+7e62d22,Nikhil Agarwal,2017/3/20 22:28,Nikhil Agarwal,Save final df
+c506269,Nikhil Agarwal,2017/3/20 22:15,Nikhil Agarwal,Merge branch 'master' of https://github.com/nikhilba/Aerial-Imagery
+c224842,Nikhil Agarwal,2017/3/20 22:12,Nikhil Agarwal,Pittsburgh info by block group
+e3261f3,Tina H. Bu,2017/3/19 16:15,Tina H. Bu,deleted proj.ipynb
+6af320f,Tina H. Bu,2017/3/19 16:13,Tina H. Bu,Updated image downloading code&
+1f19e95,Tina H. Bu,2017/3/19 16:12,Tina H. Bu,Merge branch 'master' of https://github.com/nikhilba/Aerial-Imagery
+7914285,Nikhil Agarwal,2017/3/19 13:28,Nikhil Agarwal,Created training df
+99bbd09,Tina H. Bu,2017/3/19 2:10,Tina H. Bu,modified aerial image downloading code
+9468d29,Nikhil Agarwal,2017/3/18 22:02,Nikhil Agarwal,Merge branch 'master' of https://github.com/nikhilba/Aerial-Imagery
+ed2e980,Nikhil Agarwal,2017/3/18 22:01,Nikhil Agarwal,Include wealth info
+6bd732b,Tina Hong Bu,2017/3/17 17:44,GitHub,Update Proposal
+7aaa929,Tina Hong Bu,2017/3/17 17:41,GitHub,Create Proposal
+d4abadf,Tina Hong Bu,2017/3/17 16:51,GitHub,Block Data Uploaded
+140039d,Nikhil Agarwal,2017/3/12 20:09,Nikhil Agarwal,Add description
+8.12E+11,Nikhil Binod Agarwal,2017/3/11 23:15,GitHub,Update README.md
+cbce69a,Nikhil Binod Agarwal,2017/3/10 16:09,GitHub,git ignore for python
+955ffb9,Nikhil Agarwal,2017/3/10 16:05,Nikhil Agarwal,Merge branch 'master' of https://github.com/nikhilba/Aerial-Imagery
+f65c308,Nikhil Agarwal,2017/3/10 16:04,Nikhil Agarwal,Load Census Data
+4751bd6,Tina Hong Bu,2017/3/10 15:34,GitHub,Add files via upload
+af03118,Tina Hong Bu,2017/3/10 14:58,GitHub,GeoPandas Documentation
+acde35d,Nikhil Agarwal,2017/3/10 9:29,Nikhil Agarwal,Add census data
+bc77052,Nikhil Agarwal,2017/3/10 9:25,Nikhil Agarwal,Move code to folder
+6f9c780,Tina Hong Bu,2017/2/26 15:25,Tina Hong Bu,Code for Getting Images
+1909196,Nikhil Binod Agarwal,2017/2/16 14:40,Nikhil Binod Agarwal,Proposal
+bd51dc9,Nikhil Binod Agarwal,2017/2/14 23:46,Nikhil Binod Agarwal,Initial Commit
+81868cb,Nikhil Binod Agarwal,2017/2/9 17:04,Nikhil Binod Agarwal,Initial commit
